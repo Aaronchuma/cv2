@@ -1,0 +1,6 @@
+h1{
+    text-shadow: 0px 0px 5px gray, 0px -5px 5px red;
+}
+body{
+    background-color: rgb(112, 245, 245);
+}

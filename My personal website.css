@@ -1,0 +1,26 @@
+h1{
+    text-shadow: 0px 0px 5px gray, 0px -5px 5px red;
+}
+body{
+    background-color: rgb(160, 244, 244);
+}
+
+a{
+    color: rgb(120, 113, 113);
+}
+img{
+    height: 200px;
+    width: 100px;
+    border-radius: 50px;
+    float: left;
+    margin: 10px;
+}
+p{
+    font-weight: bold;
+}
+hr{
+    background-color: black;
+    border-style: none;
+    height: 1px;
+    width: 30%;
+}
